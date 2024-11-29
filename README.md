@@ -45,6 +45,7 @@ This project automates sending bulk emails using Python. It allows scheduling em
    smtp_password = 'your_password'
 4. **Configure Recipient List**
    Modify the recipients.csv file to include the names and email addresses of your recipients.
+   ```bash
    <br>
    name,email
    <br>
@@ -58,11 +59,11 @@ This project automates sending bulk emails using Python. It allows scheduling em
 
 6. **Run the Application**
    Run the email automation script to schedule and send your emails:
-   ``bash
+   ```bash
    python send_emails.py
 7. **Access Email Scheduling**
    You can modify the scheduled time for sending emails by updating the send_time variable in the send_emails.py script. For example:
-   
+   ```bash
    send_time = datetime(2024, 12, 1, 10, 0)
 ### License
 
