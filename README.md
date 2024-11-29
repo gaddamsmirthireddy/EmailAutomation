@@ -19,4 +19,4 @@ This project automates sending bulk emails using Python. It allows scheduling em
 ```bash
 git clone https://github.com/your-username/email-automation.git
 cd email-automation
-### Step 2: Clone the repository
+
