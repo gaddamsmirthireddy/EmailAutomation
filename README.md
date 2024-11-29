@@ -46,15 +46,11 @@ This project automates sending bulk emails using Python. It allows scheduling em
 4. **Configure Recipient List**
    Modify the recipients.csv file to include the names and email addresses of your recipients.
    ```bash
-   <br>
+  
    name,email
-   <br>
    John Doe,johndoe@example.com
-   <br>
    Jane Smith,janesmith@example.com
-   <br>
    Robert Brown,robertbrown@example.com
-   <br>
    Emily Davis,emilydavis@example.com
 
 6. **Run the Application**
